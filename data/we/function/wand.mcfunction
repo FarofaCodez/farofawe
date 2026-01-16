@@ -1,0 +1,2 @@
+give @s command_block[block_entity_data={id:"command_block",Command:"function we:pos1_wand",auto:true},custom_name="Position 1"]
+give @s command_block[block_entity_data={id:"command_block",Command:"function we:pos2_wand",auto:true},custom_name="Position 2"]

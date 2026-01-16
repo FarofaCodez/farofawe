@@ -1,0 +1,1 @@
+$execute at @e[type=minecraft:marker,limit=1,tag=we_pos1] run fill ~ ~ ~ $(TargetX) $(TargetY) $(TargetZ) $(Block) hollow
